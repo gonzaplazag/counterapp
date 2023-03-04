@@ -1,6 +1,10 @@
 # counterapp
 Simple web app used to learn aws services
 
+## Webpage Demo
+
+https://dev.d1lz8j1hhp2bge.amplifyapp.com
+
 ## Road map
 
 1. How to create and host a web page? **Using AWS Amplify**

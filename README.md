@@ -19,4 +19,4 @@ https://www.youtube.com/watch?v=7m_q1ldzw0U
 
 ## Architecture
 
-![alt text](https://github.com/gonzaplazag/counterapp/blob/main/pii-enrichment-migration-counterapp.png?raw=true)
+![alt text](https://github.com/gonzaplazag/counterapp/blob/main/img/pii-enrichment-migration-counterapp.png?raw=true)
